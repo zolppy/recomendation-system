@@ -4,12 +4,12 @@ This project demonstrates the creation of a content-based image recommendation s
 
 ## Table of Contents
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Dataset](https://www.google.com/search?q=%23dataset)
-  - [Methodology](https://www.google.com/search?q=%23methodology)
-  - [How to Run](https://www.google.com/search?q=%23how-to-run)
-  - [Evaluation](https://www.google.com/search?q=%23evaluation)
-  - [Dependencies](https://www.google.com/search?q=%23dependencies)
+  - [Project Overview](#project-overview)
+  - [Dataset](#dataset)
+  - [Methodology](#methodology)
+  - [How to Run](#how-to-run)
+  - [Evaluation](#evaluation)
+  - [Dependencies](#dependencies)
 
 ## Project Overview
 
